@@ -1,12 +1,16 @@
 # Java-Vehicle-Queue
 Project using what i've been learning in Java
 
-**Initial plans**
+## 🔨Step-by-step
 
-1 - Console interface;
+- Console interface;
+  - Menu asking which function will be executed;
 
-2 - Create a Vehicle class:
+- Create a Validation Class
+  - Verify option method;
 
-  2.1 - Setup getters and setters;
+- Create Vehicle Class
+  - Methods;
+  - Getters and Setters;
   
-3 - Create a static class for the error messages;
+- Create a abstract and static class for error messages;
